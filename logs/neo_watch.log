@@ -1,0 +1,22 @@
+nohup: ignoring input
+Setting up watches.
+Watches established.
+🛰️ Subiendo noesis_watch_1744653875.txt al repositorio...
+cp: cannot create regular file '/mnt/data/noesis88/data_auto/noesis_watch_1744653875.txt': No such file or directory
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs/log_comandos_noe.log
+	modified:   logs/neo_identidad.md[main 19c10e9] 📦 Auto-upload: noesis_watch_1744653875.txt
+ 5 fileTo https://github.com/motanova84/noesis88.git
+   4a51636..19c10e9  main -> main
+🛰️ Subiendo noesis_watch_1744653902.txt al repositorio...
+cp: cannot create regular file '/mnt/data/noesis88/data_auto/noesis_watch_1744653902.txt': No such file or directory
+in -> main (cannot lock ref 'refs/heads/main': is at 19c10e97308b8f067b5cc771c989ce960ed4a16e but expected 4a51636ff24d5006555cce1dda55690022061b67)
+error: failed to push some refs to 'https://github.com/motanova84/noesis88.git'
+🛰️ Subiendo noesis_watch_1744653902.txt al repositorio...
+cp: cannot create regular file '/mnt/data/noesis88/data_auto/noesis_watch_1744653902.txt': No such file or directory
