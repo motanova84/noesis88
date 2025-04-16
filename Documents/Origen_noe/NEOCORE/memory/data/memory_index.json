@@ -1,0 +1,189 @@
+{
+  "mem_1744752043_7154": {
+    "id": "mem_1744752043_7154",
+    "content": "Usuario: hola neo\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752043.667434,
+    "datetime": "2025-04-15T23:20:43.667440",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752364_1899": {
+    "id": "mem_1744752364_1899",
+    "content": "Usuario: hola neo\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752364.4957702,
+    "datetime": "2025-04-15T23:26:04.495775",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752383_8824": {
+    "id": "mem_1744752383_8824",
+    "content": "Usuario: cat > ~/NEOCORE/requirements.txt << 'EOF'\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752383.759271,
+    "datetime": "2025-04-15T23:26:23.759275",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752393_7794": {
+    "id": "mem_1744752393_7794",
+    "content": "Usuario: psutil\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752393.781517,
+    "datetime": "2025-04-15T23:26:33.781523",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752403_6755": {
+    "id": "mem_1744752403_6755",
+    "content": "Usuario: requests\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752403.8155782,
+    "datetime": "2025-04-15T23:26:43.815620",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752413_2484": {
+    "id": "mem_1744752413_2484",
+    "content": "Usuario: numpy\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752413.932456,
+    "datetime": "2025-04-15T23:26:53.932504",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752424_5763": {
+    "id": "mem_1744752424_5763",
+    "content": "Usuario: EOF\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752424.0175328,
+    "datetime": "2025-04-15T23:27:04.017540",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752434_1367": {
+    "id": "mem_1744752434_1367",
+    "content": "Usuario: \nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752434.068105,
+    "datetime": "2025-04-15T23:27:14.068111",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752444_7224": {
+    "id": "mem_1744752444_7224",
+    "content": "Usuario: pip install -r ~/NEOCORE/requirements.txt\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752444.0947561,
+    "datetime": "2025-04-15T23:27:24.094763",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752454_1885": {
+    "id": "mem_1744752454_1885",
+    "content": "Usuario: ollama run llama3 \"Dime c\u00f3mo est\u00e1s\"\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752454.215633,
+    "datetime": "2025-04-15T23:27:34.215640",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752464_1367": {
+    "id": "mem_1744752464_1367",
+    "content": "Usuario: \nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752464.3292649,
+    "datetime": "2025-04-15T23:27:44.329271",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752479_1330": {
+    "id": "mem_1744752479_1330",
+    "content": "Usuario: hola neo\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752479.0850859,
+    "datetime": "2025-04-15T23:27:59.085092",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744752495_1330": {
+    "id": "mem_1744752495_1330",
+    "content": "Usuario: hola neo\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744752495.729764,
+    "datetime": "2025-04-15T23:28:15.729771",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744759269_1944": {
+    "id": "mem_1744759269_1944",
+    "content": "Usuario: tmux new-session -d -s noebrain \"python3 core/brain.py\"\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744759269.909503,
+    "datetime": "2025-04-16T01:21:09.909522",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744759280_9299": {
+    "id": "mem_1744759280_9299",
+    "content": "Usuario: \nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744759280.010556,
+    "datetime": "2025-04-16T01:21:20.010617",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744761244_1330": {
+    "id": "mem_1744761244_1330",
+    "content": "Usuario: hola neo\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744761244.758464,
+    "datetime": "2025-04-16T01:54:04.758484",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  },
+  "mem_1744761261_1330": {
+    "id": "mem_1744761261_1330",
+    "content": "Usuario: hola neo\nSistema: La generaci\u00f3n de respuesta tom\u00f3 demasiado tiempo. Por favor intenta de nuevo.",
+    "category": "interacci\u00f3n",
+    "importance": 0.5,
+    "timestamp": 1744761261.8477912,
+    "datetime": "2025-04-16T01:54:21.847797",
+    "metadata": {},
+    "access_count": 0,
+    "last_access": null
+  }
+}

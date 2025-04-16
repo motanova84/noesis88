@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "modelo_ia": "llama3",
+  "temperatura": 0.7,
+  "max_tokens": 500,
+  "modo_respuesta": "conciso",
+  "seguridad": true,
+  "comandos_permitidos": [
+    "abrir_app",
+    "crear_nota",
+    "buscar_archivo",
+    "obtener_estado",
+    "captura_pantalla"
+  ]
+}

@@ -1,0 +1,73 @@
+2025-04-15 22:15:42,591 [CRITICAL] NeoBrain: Error crítico importando módulos: No module named 'memory.memory_manager'
+2025-04-15 22:15:42,591 [CRITICAL] NeoBrain: Verifica que los archivos estén en las ubicaciones correctas
+2025-04-15 23:14:15,077 [CRITICAL] NeoBrain: Error crítico importando módulos: No module named 'memory.memory_manager'
+2025-04-15 23:14:15,078 [CRITICAL] NeoBrain: Verifica que los archivos estén en las ubicaciones correctas
+2025-04-15 23:14:38,723 [CRITICAL] NeoBrain: Error crítico importando módulos: No module named 'memory.memory_manager'
+2025-04-15 23:14:38,723 [CRITICAL] NeoBrain: Verifica que los archivos estén en las ubicaciones correctas
+2025-04-15 23:20:27,801 [INFO] NeoBrain: Iniciando NeoBrain...
+2025-04-15 23:20:27,803 [INFO] MemoryManager: Gestor de memoria inicializado. 0 memorias cargadas.
+2025-04-15 23:20:27,807 [INFO] NeoBrain: Configuración predeterminada creada
+2025-04-15 23:20:27,878 [INFO] NeoBrain: NeoBrain iniciado correctamente. Ollama disponible: True
+2025-04-15 23:20:43,665 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:20:43,668 [INFO] MemoryManager: Memoria registrada: mem_1744752043_7154 (interacción)
+2025-04-15 23:20:43,669 [INFO] NeoBrain: Respuesta generada en 10.02 segundos
+2025-04-15 23:24:05,162 [INFO] NeoBrain: Iniciando NeoBrain...
+2025-04-15 23:24:05,164 [INFO] MemoryManager: Gestor de memoria inicializado. 1 memorias cargadas.
+2025-04-15 23:24:05,165 [INFO] NeoBrain: Configuración cargada correctamente
+2025-04-15 23:24:05,216 [INFO] NeoBrain: NeoBrain iniciado correctamente. Ollama disponible: True
+2025-04-15 23:25:15,188 [INFO] NeoBrain: Iniciando NeoBrain...
+2025-04-15 23:25:15,189 [INFO] MemoryManager: Gestor de memoria inicializado. 1 memorias cargadas.
+2025-04-15 23:25:15,189 [INFO] NeoBrain: Configuración cargada correctamente
+2025-04-15 23:25:15,229 [INFO] NeoBrain: NeoBrain iniciado correctamente. Ollama disponible: True
+2025-04-15 23:26:04,464 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:26:04,501 [INFO] MemoryManager: Memoria registrada: mem_1744752364_1899 (interacción)
+2025-04-15 23:26:04,512 [INFO] NeoBrain: Respuesta generada en 10.25 segundos
+2025-04-15 23:26:23,758 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:26:23,759 [INFO] MemoryManager: Memoria registrada: mem_1744752383_8824 (interacción)
+2025-04-15 23:26:23,760 [INFO] NeoBrain: Respuesta generada en 10.02 segundos
+2025-04-15 23:26:33,779 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:26:33,782 [INFO] MemoryManager: Memoria registrada: mem_1744752393_7794 (interacción)
+2025-04-15 23:26:33,782 [INFO] NeoBrain: Respuesta generada en 10.02 segundos
+2025-04-15 23:26:43,812 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:26:43,823 [INFO] MemoryManager: Memoria registrada: mem_1744752403_6755 (interacción)
+2025-04-15 23:26:43,824 [INFO] NeoBrain: Respuesta generada en 10.04 segundos
+2025-04-15 23:26:53,929 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:26:53,934 [INFO] MemoryManager: Memoria registrada: mem_1744752413_2484 (interacción)
+2025-04-15 23:26:53,936 [INFO] NeoBrain: Respuesta generada en 10.11 segundos
+2025-04-15 23:27:03,979 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:27:04,024 [INFO] MemoryManager: Memoria registrada: mem_1744752424_5763 (interacción)
+2025-04-15 23:27:04,024 [INFO] NeoBrain: Respuesta generada en 10.09 segundos
+2025-04-15 23:27:14,067 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:27:14,070 [INFO] MemoryManager: Memoria registrada: mem_1744752434_1367 (interacción)
+2025-04-15 23:27:14,070 [INFO] NeoBrain: Respuesta generada en 10.05 segundos
+2025-04-15 23:27:24,091 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:27:24,096 [INFO] MemoryManager: Memoria registrada: mem_1744752444_7224 (interacción)
+2025-04-15 23:27:24,097 [INFO] NeoBrain: Respuesta generada en 10.03 segundos
+2025-04-15 23:27:34,194 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:27:34,276 [INFO] MemoryManager: Memoria registrada: mem_1744752454_1885 (interacción)
+2025-04-15 23:27:34,277 [INFO] NeoBrain: Respuesta generada en 10.18 segundos
+2025-04-15 23:27:44,321 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:27:44,330 [INFO] MemoryManager: Memoria registrada: mem_1744752464_1367 (interacción)
+2025-04-15 23:27:44,331 [INFO] NeoBrain: Respuesta generada en 10.04 segundos
+2025-04-15 23:27:45,249 [INFO] NeoBrain: Iniciando NeoBrain...
+2025-04-15 23:27:45,251 [INFO] MemoryManager: Gestor de memoria inicializado. 11 memorias cargadas.
+2025-04-15 23:27:45,253 [INFO] NeoBrain: Configuración cargada correctamente
+2025-04-15 23:27:45,321 [INFO] NeoBrain: NeoBrain iniciado correctamente. Ollama disponible: True
+2025-04-15 23:27:59,080 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:27:59,090 [INFO] MemoryManager: Memoria registrada: mem_1744752479_1330 (interacción)
+2025-04-15 23:27:59,091 [INFO] NeoBrain: Respuesta generada en 10.04 segundos
+2025-04-15 23:28:15,728 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-15 23:28:15,734 [INFO] MemoryManager: Memoria registrada: mem_1744752495_1330 (interacción)
+2025-04-15 23:28:15,737 [INFO] NeoBrain: Respuesta generada en 10.03 segundos
+2025-04-16 01:21:09,900 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-16 01:21:09,935 [INFO] MemoryManager: Memoria registrada: mem_1744759269_1944 (interacción)
+2025-04-16 01:21:09,941 [INFO] NeoBrain: Respuesta generada en 10.12 segundos
+2025-04-16 01:21:19,996 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-16 01:21:20,014 [INFO] MemoryManager: Memoria registrada: mem_1744759280_9299 (interacción)
+2025-04-16 01:21:20,014 [INFO] NeoBrain: Respuesta generada en 10.07 segundos
+2025-04-16 01:54:04,714 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-16 01:54:04,798 [INFO] MemoryManager: Memoria registrada: mem_1744761244_1330 (interacción)
+2025-04-16 01:54:04,798 [INFO] NeoBrain: Respuesta generada en 10.11 segundos
+2025-04-16 01:54:21,846 [WARNING] NeoBrain: Timeout esperando respuesta de Ollama
+2025-04-16 01:54:21,861 [INFO] MemoryManager: Memoria registrada: mem_1744761261_1330 (interacción)
+2025-04-16 01:54:21,862 [INFO] NeoBrain: Respuesta generada en 10.04 segundos
