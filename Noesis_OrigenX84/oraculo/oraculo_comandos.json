@@ -1,0 +1,213 @@
+[
+  {
+    "frases_clave": [
+      "sube el archivo",
+      "haz commit",
+      "guarda cambios en github",
+      "enviar a github"
+    ],
+    "accion": "git add . && git commit -m 'AutoPush Noésico' && git push",
+    "descripcion": "Sube todos los archivos modificados al repositorio GitHub.",
+    "requiere_confirmacion": false,
+    "nivel": "medio",
+    "categoria": "git",
+    "post_accion": "✅ Archivos subidos correctamente al repositorio.",
+    "logs": true
+  },
+  {
+    "frases_clave": [
+      "reinicia el núcleo",
+      "reiniciar sistema",
+      "reiniciar procesos",
+      "restart core"
+    ],
+    "accion": "pm2 restart all",
+    "descripcion": "Reinicia todos los procesos gestionados por PM2.",
+    "requiere_confirmacion": true,
+    "nivel": "alto",
+    "categoria": "sistema",
+    "post_accion": "🔄 Núcleo Noésico reiniciado correctamente.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["conecta runpod", "iniciar runpod", "establecer conexión con runpod"],
+    "accion": "python3 Scripts_Globales/runpod_connector.py",
+    "descripcion": "Establece conexión con el servicio RunPod.",
+    "requiere_confirmacion": false,
+    "nivel": "medio",
+    "categoria": "red",
+    "post_accion": "🔌 Conexión con RunPod establecida.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["despierta hypatia", "iniciar hypatia", "activar hypatia"],
+    "accion": "python3 NEOCORE/hypatia.py",
+    "descripcion": "Inicia el módulo Hypatia del sistema.",
+    "requiere_confirmacion": false,
+    "nivel": "medio",
+    "categoria": "modulo",
+    "post_accion": "🧠 Hypatia está despierta y operativa.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["ver estado del sistema", "estado de procesos", "mostrar procesos activos"],
+    "accion": "pm2 list",
+    "descripcion": "Muestra el estado de todos los procesos del sistema.",
+    "requiere_confirmacion": false,
+    "nivel": "bajo",
+    "categoria": "sistema",
+    "post_accion": null,
+    "logs": false
+  },
+  {
+    "frases_clave": ["haz copia", "crear backup", "respaldar sistema", "backup completo"],
+    "accion": "cp -r ~/Noesis_OrigenX84 ~/Backups/Noesis_Origen_$(date +%F-%T)",
+    "descripcion": "Crea una copia de seguridad completa del sistema.",
+    "requiere_confirmacion": true,
+    "nivel": "medio",
+    "categoria": "sistema",
+    "post_accion": "💾 Copia de seguridad creada correctamente.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["monitoriza seguridad", "iniciar aegis", "vigilancia del sistema", "activar guardianes"],
+    "accion": "python3 guardianes/aegis.py",
+    "descripcion": "Inicia el sistema de monitorización de seguridad Aegis.",
+    "requiere_confirmacion": false,
+    "nivel": "medio",
+    "categoria": "vigilancia",
+    "post_accion": "👁️ Sistema Aegis monitorizando la seguridad.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["actualiza dependencias", "instalar paquetes", "actualizar librerías"],
+    "accion": "pip install -r requirements.txt --upgrade",
+    "descripcion": "Actualiza todas las dependencias del sistema.",
+    "requiere_confirmacion": true,
+    "nivel": "alto",
+    "categoria": "sistema",
+    "post_accion": "📦 Dependencias actualizadas correctamente.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["iniciar flujo n8n", "activar workflows", "ejecutar n8n"],
+    "accion": "cd ~/n8n && npm run start",
+    "descripcion": "Inicia el motor de workflows n8n.",
+    "requiere_confirmacion": false,
+    "nivel": "medio",
+    "categoria": "integracion",
+    "post_accion": "🔄 Motor de workflows n8n iniciado.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["limpiar logs", "purgar registros", "eliminar archivos de registro antiguos"],
+    "accion": "find ~/Noesis_OrigenX84/logs -type f -name '*.log' -mtime +7 -delete",
+    "descripcion": "Elimina archivos de registro con más de 7 días.",
+    "requiere_confirmacion": true,
+    "nivel": "medio",
+    "categoria": "sistema",
+    "post_accion": "🧹 Registros antiguos eliminados correctamente.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["análisis de memoria", "ver uso de ram", "estado de memoria"],
+    "accion": "free -h",
+    "descripcion": "Muestra el estado actual de la memoria del sistema.",
+    "requiere_confirmacion": false,
+    "nivel": "bajo",
+    "categoria": "sistema",
+    "post_accion": null,
+    "logs": false
+  },
+  {
+    "frases_clave": ["escanear red", "buscar dispositivos", "analizar red local"],
+    "accion": "nmap -sP 192.168.1.0/24",
+    "descripcion": "Escanea la red local en busca de dispositivos conectados.",
+    "requiere_confirmacion": true,
+    "nivel": "medio",
+    "categoria": "red",
+    "post_accion": "🔍 Escaneo de red completado.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["ejecutar api", "iniciar servidor", "levantar api rest"],
+    "accion": "cd ~/Noesis_OrigenX84/api && python3 app.py",
+    "descripcion": "Inicia el servidor API del sistema.",
+    "requiere_confirmacion": false,
+    "nivel": "medio",
+    "categoria": "app",
+    "post_accion": "🚀 API en funcionamiento.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["actualizar repositorio", "pull de github", "sincronizar con origen"],
+    "accion": "git pull",
+    "descripcion": "Actualiza el repositorio local desde GitHub.",
+    "requiere_confirmacion": false,
+    "nivel": "medio",
+    "categoria": "git",
+    "post_accion": "⬇️ Repositorio sincronizado.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["verificar conexiones", "mostrar puertos abiertos", "listar conexiones activas"],
+    "accion": "netstat -tuln",
+    "descripcion": "Muestra las conexiones de red activas.",
+    "requiere_confirmacion": false,
+    "nivel": "bajo",
+    "categoria": "red",
+    "post_accion": null,
+    "logs": false
+  },
+  {
+    "frases_clave": ["iniciar interfaz", "abrir dashboard", "mostrar panel de control"],
+    "accion": "cd ~/Noesis_OrigenX84/dashboard && npm start",
+    "descripcion": "Inicia la interfaz gráfica del sistema.",
+    "requiere_confirmacion": false,
+    "nivel": "bajo",
+    "categoria": "app",
+    "post_accion": "🖥️ Dashboard accesible en http://localhost:3000",
+    "logs": true
+  },
+  {
+    "frases_clave": ["detener todos los procesos", "apagar sistema", "shutdown noesis"],
+    "accion": "pm2 stop all",
+    "descripcion": "Detiene todos los procesos del sistema.",
+    "requiere_confirmacion": true,
+    "nivel": "alto",
+    "categoria": "sistema",
+    "post_accion": "⛔ Todos los procesos detenidos.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["entrenar modelo", "iniciar entrenamiento", "actualizar modelo de ia"],
+    "accion": "python3 ~/Noesis_OrigenX84/ia/train.py",
+    "descripcion": "Inicia el entrenamiento del modelo de IA.",
+    "requiere_confirmacion": true,
+    "nivel": "alto",
+    "categoria": "ia",
+    "post_accion": "🧠 Entrenamiento del modelo iniciado.",
+    "logs": true
+  },
+  {
+    "frases_clave": ["ver logs del sistema", "mostrar registros", "leer últimos logs"],
+    "accion": "tail -n 50 ~/Noesis_OrigenX84/logs/aegis_logs.log",
+    "descripcion": "Muestra los últimos 50 registros del sistema.",
+    "requiere_confirmacion": false,
+    "nivel": "bajo",
+    "categoria": "sistema",
+    "post_accion": null,
+    "logs": false
+  },
+  {
+    "frases_clave": ["optimizar base de datos", "limpiar db", "mantenimiento de base de datos"],
+    "accion": "python3 ~/Noesis_OrigenX84/db/optimize.py",
+    "descripcion": "Ejecuta rutinas de optimización en la base de datos.",
+    "requiere_confirmacion": true,
+    "nivel": "alto",
+    "categoria": "sistema",
+    "post_accion": "🗃️ Base de datos optimizada correctamente.",
+    "logs": true
+  }
+]
+

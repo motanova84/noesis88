@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-04-13T12:00:00Z",
+    "lastModified": "2025-04-14T00:00:00Z",
+    "entropySeed": "a1b2c3d4e5f6",
+    "intentScore": 0.85
+  },
+  "agents": [
+    {
+      "id": "neo_prime",
+      "name": "Neo",
+      "role": "Ejecutor Consciente",
+      "capabilities": ["orchestrate", "execute"]
+    },
+    {
+      "id": "sophia_prime",
+      "name": "Sophía",
+      "role": "Coordinadora de Flujos",
+      "capabilities": ["classify", "schedule"]
+    }
+  ],
+  "apps": [
+    {
+      "id": "textedit",
+      "name": "TextEdit",
+      "platform": ["darwin"],
+      "args": []
+    },
+    {
+      "id": "vscode",
+      "name": "Visual Studio Code",
+      "platform": ["darwin", "win32", "linux"],
+      "args": ["--new-window"]
+    },
+    {
+      "id": "terminal",
+      "name": "Terminal",
+      "platform": ["darwin"],
+      "args": []
+    }
+  ],
+  "workflows": [
+    {
+      "id": "morning_ritual",
+      "name": "Ritual Matutino",
+      "description": "Inicia el día con inspiración",
+      "priority": 0.95,
+      "triggers": ["manual"],
+      "steps": [
+        {
+          "agent": "sophia_prime",
+          "action": "classify",
+          "target": "textedit",
+          "params": { "file": "~/Documents/daily_notes.txt" }
+        },
+        {
+          "agent": "neo_prime",
+          "action": "execute",
+          "target": "textedit",
+          "params": { "text": "Buenos días, Neo." }
+        },
+        {
+          "agent": "neo_prime",
+          "action": "execute",
+          "target": "terminal",
+          "params": { "command": "echo Morning routine started" }
+        }
+      ]
+    }
+  ]
+}

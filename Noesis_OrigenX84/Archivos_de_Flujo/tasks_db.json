@@ -1,0 +1,157 @@
+{
+  "tasks": [
+    {
+      "id": "task_1744702383_d966",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702383.55472,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702477_0c80",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702477.1039062,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702571_2ad5",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702571.679713,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702584_411e",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702584.599275,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702587_5ad5",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702587.885082,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702590_8d4c",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702590.373178,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702591_a5f6",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702591.192276,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702594_d8ef",
+      "title": "Implementar sistema de memoria",
+      "description": "Desarrollar sistema de memoria vectorial para NEOCORE PRO",
+      "category": "system",
+      "priority": 8,
+      "created_at": 1744702594.662835,
+      "status": "pending",
+      "tags": [
+        "desarrollo",
+        "memoria",
+        "core"
+      ]
+    },
+    {
+      "id": "task_1744702603_0de2",
+      "title": "An\u00e1lisis de memoria",
+      "description": "Analizar rendimiento del sistema de memoria vectorial",
+      "category": "user",
+      "priority": 8.0,
+      "created_at": 1744702603.272581,
+      "status": "pending",
+      "tags": [
+        "cli",
+        "user"
+      ]
+    }
+  ],
+  "categories": {
+    "system": {
+      "description": "Tareas del sistema",
+      "color": "blue",
+      "priority": 10
+    },
+    "user": {
+      "description": "Tareas del usuario",
+      "color": "green",
+      "priority": 8
+    },
+    "maintenance": {
+      "description": "Mantenimiento",
+      "color": "orange",
+      "priority": 5
+    },
+    "learning": {
+      "description": "Aprendizaje",
+      "color": "purple",
+      "priority": 3
+    }
+  },
+  "stats": {
+    "total_created": 9,
+    "total_completed": 0,
+    "total_failed": 0,
+    "avg_completion_time": 0
+  }
+}
