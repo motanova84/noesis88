@@ -1,1 +1,16 @@
 📤 Preparando archivos para subir a GitHub...
+[main 10e3956] 🚀 Subida automática desde Noé en 2025-07-29 21:21:32
+ 6 files changed, 53 insertions(+)
+ create mode 100644 auto_sync_watcher.py
+ create mode 100755 iniciar_noesis.sh
+ create mode 100644 noesis_logs.txt
+ create mode 100644 sync_logs.txt
+To https://github.com/motanova84/noesis88.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/motanova84/noesis88.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+❌ Error al hacer push a GitHub. Revisa conexión o permisos.
