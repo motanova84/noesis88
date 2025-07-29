@@ -1,3 +1,5 @@
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 #!/usr/bin/env python3
 import os, subprocess, time
 from datetime import datetime

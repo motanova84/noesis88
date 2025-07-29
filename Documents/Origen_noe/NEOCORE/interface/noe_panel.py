@@ -1,3 +1,5 @@
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 import streamlit as st
 import os
 import glob

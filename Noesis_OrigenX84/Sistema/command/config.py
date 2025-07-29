@@ -1,3 +1,5 @@
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 """distutils.command.config
 
 Implements the Distutils 'config' command, a (mostly) empty command class

@@ -1,3 +1,5 @@
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 """distutils.command.bdist
 
 Implements the Distutils 'bdist' command (create a built [binary]

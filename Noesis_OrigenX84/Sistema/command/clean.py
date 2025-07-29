@@ -1,3 +1,5 @@
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 """distutils.command.clean
 
 Implements the Distutils 'clean' command."""

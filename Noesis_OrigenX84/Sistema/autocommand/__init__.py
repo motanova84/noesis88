@@ -1,3 +1,5 @@
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 # Copyright 2014-2016 Nathan West
 #
 # This file is part of autocommand.

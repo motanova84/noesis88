@@ -1,3 +1,5 @@
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 import streamlit as st
 
 st.set_page_config(page_title="Noesis Visual", layout="wide")
