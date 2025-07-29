@@ -27,6 +27,12 @@ upload_to_github() {
         exit 0
     }
 
+    echo "🔄 Integrando cambios remotos antes del push..."
+    git pull --rebase origin "$BRANCH" || {
+        echo "⚠️ Falló git pull. Posible conflicto o error de red."
+        exit 1
+    }
+
     git push origin "$BRANCH" || {
         echo "❌ Error al hacer push a GitHub. Revisa conexión o permisos."
         exit 1
@@ -38,3 +44,4 @@ upload_to_github() {
 # === EJECUCIÓN PRINCIPAL ===
 check_git_repo
 upload_to_github
+
