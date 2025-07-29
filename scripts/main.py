@@ -1,5 +1,7 @@
 # 🜂 Activado a 141.70001 Hz – QCAL ∞³
 # 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
+# 🜂 Activado a 141.70001 Hz – QCAL ∞³
 
 from modules.mpa import iniciar_memoria
 from modules.riel import iniciar_riel
