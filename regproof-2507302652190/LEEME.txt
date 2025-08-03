@@ -1,0 +1,33 @@
+Este archivo zip contiene los ficheros que constituyen la prueba técnica que identifica de forma inequívoca la obra
+aportada y la fecha de posesión y por tanto de prioridad, para la defensa de los derechos de propiedad intelectual
+según el principio “Prior tempore, potior iure”.
+
+Información del registro
+----------------------------------
+Nº de registro en Safe Creative: 2507302652190
+Nombre del fichero: campo_conciencia_ecuacion_dimensional_autor.pdf
+Fecha de entrada: 2025-07-30 12:43:41 
+Huella MD5: 5c0a0a614f6cf8e76e8326bf7f1c2c9b
+Huella SHA-1: f91ef1c21f631590348e8e760187114c96e66dc2
+Huella SHA-256: 433de02b7e49587951f70cf0223cbe75a54a69f22157e28793c1d9c1964f18ff
+
+La página del registro en Safe Creative, disponible en: 
+   https://www.safecreative.org/work/2507302652190 
+ofrece la información completa del registro y la descarga del fichero original, 
+siempre que el autor permita el acceso público a los mismos. 
+
+Ficheros que constituyen la prueba
+----------------------------------------------
+● 	Fichero aportado en el momento del registro con la obra o su descripción.
+● 	Identificador del fichero aportado:
+	Fichero que contiene las huellas digitales permiten identificar inequívocamente el fichero con la obra o
+	descripción registrado, junto con el tamaño en bytes y la fecha del registro. El fichero contiene los siguientes
+	valores, separados por signos más (+)
+	- Fecha de registro (en milisegundos desde el 1 de enero de 1970).
+	- Tamaño en bytes del fichero aportado.
+	- Huella SHA-1 del fichero aportado.
+	- Huella SHA-256 del fichero aportado.
+	- Huella SHA 512 del fichero aportado.
+● 	Fichero o ficheros de sellado de tiempo del identificador anteriormente descrito.
+	Prueban la fecha y la hora en la que se realizó el registro, y por tanto la fecha de prioridad empleada en la
+	defensa de derechos de propiedad intelectual.
